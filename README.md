@@ -8,7 +8,7 @@
 
 ## Features
 
-insert image
+<img src="demo.jpg" width="600">
 
 - Display the current indoor/outdoor temperature and water temperature which is fetched from a JSON API of the central heating every five minutes.
 - Synchronize time via NTP and automatically adjust for Central European Summer Time (the timezone used is GMT+1).
